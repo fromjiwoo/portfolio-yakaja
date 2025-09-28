@@ -84,7 +84,6 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1kbEHif0bIhkfOeUg5ZFvOEti6
 |공통| 일정선택 | <img width="634" height="860" alt="KakaoTalk_20250424_125426503_03" src="https://github.com/user-attachments/assets/cded27b9-8efd-4ac4-ad2d-b4bb0268c779" /> |
 |유저| 지역선택 | <img width="634" height="863" alt="ygjmap" src="https://github.com/user-attachments/assets/4d0599b5-4051-4eeb-9312-56be052416ce" /> |
 |유조| 여행정보 | <img width="633" height="861" alt="KakaoTalk_20250424_125426503_04" src="https://github.com/user-attachments/assets/627f3796-0519-424b-8562-36a14c1895d8" /> |
-|유저| 결제하기| <img width="400" height="453" alt="image" src="https://github.com/user-attachments/assets/b7988708-66fe-44c4-ba80-412fc615cac7" /> |
 |유저| 결제확인 페이지 | <img width="295" height="761" alt="KakaoTalk_20250424_131745240_01" src="https://github.com/user-attachments/assets/75f4084b-881a-4d8a-a7c8-91740302bab6" /> |
 |유저| 여행일정 불러오기 | <img width="633" height="862" alt="ygjbul" src="https://github.com/user-attachments/assets/0b374359-f1cd-4f43-9df0-aeead39cef7f" /> |
 |유저| 마지막 페이지 | <img width="637" height="866" alt="ygjlast" src="https://github.com/user-attachments/assets/a91d2354-d642-47e9-aba3-78e9e64db628" /> |
