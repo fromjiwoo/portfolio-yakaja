@@ -141,7 +141,7 @@ ERD 이미지 첨부 (https://drive.google.com/file/d/1kbEHif0bIhkfOeUg5ZFvOEti6
 
 ### 🎥 시연 자료
 - [📺 시연 영상 보기](https://drive.google.com/file/d/1TLn_pS-Dg8SKAuKlLZssa4tMcJxC8bHr/view?usp=drive_link) - 관리자
-- (https://drive.google.com/file/d/1OP9iLADdIWlFux0vKZnAtSsycVRSFGnS/view?usp=drive_link) - 사용
+- [📺 시연 영상 보기](https://drive.google.com/file/d/1OP9iLADdIWlFux0vKZnAtSsycVRSFGnS/view?usp=drive_link) - 사용자
 - [📑 발표 자료 (PPT)](https://drive.google.com/file/d/1sIPAWwSvjvaGObK-X6DzlWzRFNgI6WNI/view?usp=drive_link)
 - [📑 발표 자료 (pdf)](https://drive.google.com/file/d/1kZ1lKXoHUVIgaIuZZHtrYHtDarcm1WW7/view?usp=drive_link)
 - [📑 UML](https://drive.google.com/file/d/1SbN2PphGj1hwFAbpD1wxCA5cPfQGik-X/view?usp=drive_link)
